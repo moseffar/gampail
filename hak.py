@@ -17,4 +17,4 @@ for password in passwfile :
              break;
 
        except smtplib.SMTPAuthenticationError:
-               print ("[!] Password is incorrect ===> %s ") %password
+               print ("[!] Password is incorrect a hbibi ===> %s ") %password
